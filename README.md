@@ -1,12 +1,10 @@
 # Deploying a Scalable GKE Standard Cluster
 
-![Deploying a Scalable GKE Standard Cluster - architecture](architecture-diagram/YT-Thumbnail%20- Deploying%20Scalable%20GKE%20Standard%20Cluster.png)
-
----
-
 ## GKE Architecture
 
 ![GKE - architecture](architecture-diagram/gke-architecture.svg)
+
+---
 
 ## Introduction
 
